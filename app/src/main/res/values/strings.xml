@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check Device Rooted or Not</string>
+    <string name="check_device_root_using_native_code">Check Root Status using Native Code</string>
+    <string name="check_device_root_status_using_library">Check Root Status using Library</string>
+</resources>
